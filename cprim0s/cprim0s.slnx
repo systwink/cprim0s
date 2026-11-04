@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cprim0s/cprim0s.vcxproj" Id="f5642146-1e6c-4fc1-8b1c-b2f62b7aef1a" />
+</Solution>
