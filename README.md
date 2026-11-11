@@ -1,2 +1,3 @@
 # cprim0s
-coming soon
+
+makes a process display an error saying "cprim0s process hijacked" 
